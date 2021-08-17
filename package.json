@@ -1,0 +1,28 @@
+{
+  "name": "mailing_mailgunlib",
+  "version": "1.0.0",
+  "description": "AllexJS mailing driver for MailGun",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "dependencies": {
+    "node-libcurl": "2.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mailing-libs/mailgun.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "mailing",
+    "mailgun",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mailing-libs/mailgun/issues"
+  },
+  "homepage": "https://github.com/mailing-libs/mailgun#readme"
+}
